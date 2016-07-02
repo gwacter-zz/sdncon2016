@@ -12,3 +12,8 @@ We will also be using the Faucet controller and will post resources to learning 
 Learning materials for Faucet and the Zodiac FX board are available on our website http://sdncon.net
 
 This repository will include all the material needed for the current instance of SDNCon.
+
+### Important information
+
+  * [Agenda for the two days](agenda.md)
+  * [Testbed configuration and other hardware information](hardware/README.md)
