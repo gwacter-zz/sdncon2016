@@ -1,7 +1,8 @@
 # Hardware on the day
 
-Participants are welcome to bring their own equipment and we will do our best to provide Internet access via our wifi 
-and a local switch. 
+We have providing *SEVEN* pre-built development testbeds built around Raspberry PIs and Zodiac FX switches. 
 
-However, we have providing a hardware development testbed built around Raspberry PIs and Zodiac FX switches. 
+We will also have some other equipment but we strongly suggest that you use our pre-built environment. Depending upon numbers of people on the day, we may suggest individual participants combine together into a team to share a testbed.
+
+
 
