@@ -20,11 +20,13 @@ This repository will include all the material needed for the current instance of
 ### Hackthon information
 
   * [Agenda for the two days](agenda.md)
-  * [Testbed configuration and other hardware information](hardware/README.md)
   * [Hackathon ideas](hackathon_ideas.pdf) *<---- ideas for feature extensions, applications and more*
-  * [Show and tell[(show-and-tell.md)
-  *
- ### Technical information
+  * [Show and tell information](show-and-tell.md)
+  * [Venue information](venue.md)
+  
+ ### Technical resources
+
+  * [Testbed configuration and other hardware information](hardware/README.md)
   * [Faucet github repository](https://github.com/REANNZ/faucet)
   * [Faucet blog, gives an insight about design and usage of Faucet](https://faucet-sdn.blogspot.co.nz/)
   * [Find out more about Zodiac FX switch](https://www.youtube.com/c/Northboundnetworks)
