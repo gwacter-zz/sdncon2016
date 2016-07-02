@@ -48,8 +48,8 @@ Run 'arp -n' to get the MAC address for the Controller (control plane) port. Loo
 
 ```
 pi@controller:~$ arp -n
-Address                  HWtype  HWaddress           Flags Mask            Iface
-10.0.1.99                 ether       aa:bb:cc:dd:ee    C                  eth0
+Address                 HWtype  HWaddress         Flags Mask        Iface
+10.0.1.99               ether   aa:bb:cc:dd:ee    C                 eth0
 ```
 
 ##### 5. Edit the Faucet configuration 
