@@ -1,8 +1,10 @@
-# Getting started with the Testbed
+# Setting up and Testing the Testbed
 
-Note that at the start of the hackathon we will be provide the IP address for the controllers so you can ssh into them when connected to the University wifi.
+Note that at the start of the hackathon all of these steps *should* have been completed. 
 
-1. Set up the network using the following information:
+##### 1. Set up the testbed
+
+We will provide the testbed fully assembled but if *not* it should be setup using the following information:
 
 a) Controller
 ------------------
@@ -27,31 +29,33 @@ c) Zodiac Switch (left to right, PCB facing up)
 3 - Controller (data plane)
 4 - Controller (control plane)
 
-2. Power everthing on
+##### 2. Power everthing on
 
 We are using a powered hub. Power on the Controller, Hosts A and B, and the Zodiac Switch.
 
-3. Log into the Controller.
+##### 3. Log into the Controller.
 
-4. Run 'arp -n' to get the MAC address for the Controller (control plane) port. Look for the entry with the IP address 10.0.1.99:
+##### 4. Get the MAC address for the Controller
+
+Run 'arp -n' to get the MAC address for the Controller (control plane) port. Look for the entry with the IP address 10.0.1.99:
 
 pi@controller:~$ arp -n
 Address                  HWtype  HWaddress           Flags Mask            Iface
 10.0.1.99                 ether       aa:bb:cc:dd:ee    C                                  eth0
 
-5. Edit the Faucet configuration 
+##### 5. Edit the Faucet configuration 
 
 You will find the configuration located at /home/pi/zodiacfx/faucet.yaml, and enter the Controller (control plane) MAC address to the dp_id field:
 
   dp_id: 0xaabbccddee
 
-6. Start Faucet 
+##### 6. Start Faucet 
 
 Use the following script:
 
     $ /home/pi/start_faucet.sh
 
-7. Check Connectivitiy
+##### 7. Check Connectivitiy
 
 Log into all hosts, make sure all hosts can connect to each other (using a ping test):
 
