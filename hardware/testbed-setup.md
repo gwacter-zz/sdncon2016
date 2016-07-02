@@ -6,8 +6,8 @@ Note that at the start of the hackathon all of these steps *should* have been co
 
 We will provide the testbed fully assembled but if *not* it should be setup using the following information:
 
-a) Controller
-------------------
+###### a) Controller
+
 1x Internal NIC (eth0) - Control plane
 1x Edimax wired NIC (eth1) - Data plane
 1x Edimax wireless NIC (wlan0) - Internet
@@ -15,15 +15,15 @@ a) Controller
 Username: pi
 Password: raspberry
 
-b) Hosts A and B
-----------------------
+###### b) Hosts A and B
+
 1x Internal NIC (eth0) - Data plane
 
 Username: pi
 Password: raspberry
 
-c) Zodiac Switch (left to right, PCB facing up)
---------------------------------------------------------------------------
+###### c) Zodiac Switch (left to right, PCB facing up)
+
 1 - Host A (data plane)
 2 - Host B (data plane)
 3 - Controller (data plane)
@@ -59,15 +59,15 @@ Use the following script:
 
 Log into all hosts, make sure all hosts can connect to each other (using a ping test):
 
-a) Controller
+###### a) Controller
   - ensure eth0 (10.0.1.8) can ping 10.0.1.99 (Zodiac Switch)
   - ensure eth1 (172.16.0.254) can ping 172.16.0.101 (Host A) and 172.16.0.102 (Host B)
   - ensure wlan0 can access the Internet
 
-b) Host A
+###### b) Host A
   - ensure eth0 (172.16.0.101) can ping 172.16.0.102 (Host B) and 172.16.0.254 (Controller - Data Plane)
 
-b) Host B
+###### b) Host B
   - ensure eth0 (172.16.0.102) can ping 172.16.0.101 (Host A) and 172.16.0.254 (Controller - Data Plane)
   
   
