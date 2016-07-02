@@ -17,11 +17,14 @@ We have will have mentors circulating on the day who can give advice and we expe
 
 This repository will include all the material needed for the current instance of SDNCon.
 
-### Important information
+### Hackthon information
 
   * [Agenda for the two days](agenda.md)
   * [Testbed configuration and other hardware information](hardware/README.md)
   * [Hackathon ideas](hackathon_ideas.pdf) *<---- ideas for feature extensions, applications and more*
+  * [Show and tell[(show-and-tell.md)
+  *
+ ### Technical information
   * [Faucet github repository](https://github.com/REANNZ/faucet)
   * [Faucet blog, gives an insight about design and usage of Faucet](https://faucet-sdn.blogspot.co.nz/)
   * [Find out more about Zodiac FX switch](https://www.youtube.com/c/Northboundnetworks)
