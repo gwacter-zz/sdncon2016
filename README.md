@@ -24,7 +24,7 @@ This repository will include all the material needed for the current instance of
   * [Show and tell information](show-and-tell.md)
   * [Venue information](venue.md)
   
- ### Technical resources
+### Technical resources
 
   * [Testbed configuration and other hardware information](hardware/README.md)
   * [Faucet github repository](https://github.com/REANNZ/faucet)
