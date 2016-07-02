@@ -26,9 +26,9 @@ password: raspberry
 
 # Getting started
 
-We have written some instructions for configuring your testbed and getting started on the day.
+When you arrive the testbed should be prebuilt and configured. However, it is still a good idea to test it out in order to get started.
 
-See :
+See : https://github.com/gwacter/sdncon2016/blob/master/hardware/testbed-setup.md
 
 # Other hardware
 
