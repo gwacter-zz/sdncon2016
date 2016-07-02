@@ -17,3 +17,4 @@ This repository will include all the material needed for the current instance of
 
   * [Agenda for the two days](agenda.md)
   * [Testbed configuration and other hardware information](hardware/README.md)
+  * [Hackathon ideas](hackathon_ideas.pdf)
