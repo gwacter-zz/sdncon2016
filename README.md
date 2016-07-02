@@ -24,4 +24,6 @@ This repository will include all the material needed for the current instance of
   * [Hackathon ideas](hackathon_ideas.pdf) *<---- ideas for feature extensions, applications and more*
   * [Faucet github repository](https://github.com/REANNZ/faucet)
   * [Faucet blog](https://faucet-sdn.blogspot.co.nz/)
+  * [Find out more about Zodiac FX switch](https://www.youtube.com/c/Northboundnetworks)
+  
 
