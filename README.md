@@ -23,7 +23,7 @@ This repository will include all the material needed for the current instance of
   * [Testbed configuration and other hardware information](hardware/README.md)
   * [Hackathon ideas](hackathon_ideas.pdf) *<---- ideas for feature extensions, applications and more*
   * [Faucet github repository](https://github.com/REANNZ/faucet)
-  * [Faucet blog](https://faucet-sdn.blogspot.co.nz/)
+  * [Faucet blog, gives an insight about design and usage of Faucet](https://faucet-sdn.blogspot.co.nz/)
   * [Find out more about Zodiac FX switch](https://www.youtube.com/c/Northboundnetworks)
   
 
