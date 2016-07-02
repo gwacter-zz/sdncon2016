@@ -8,7 +8,7 @@ That should be enough for each team although it might mean some individuals need
 
 At least one laptop, we expect that you will use this to connect to the testbed and other equipment.
 
-You will need [PuTTY for Windows][https://the.earth.li/~sgtatham/putty/latest/x86/putty.exe].
+You will need [PuTTY for Windows](https://the.earth.li/~sgtatham/putty/latest/x86/putty.exe).
 
 ## What is given to you.
 
@@ -21,7 +21,14 @@ This wireless connection allows the other hosts (labelled hA and hB) that were c
 The user name and password for the raspberry Pis are :
 
 user: pi
+
 password: raspberry
+
+# Getting started
+
+We have written some instructions for configuring your testbed and getting started on the day.
+
+See :
 
 # Other hardware
 
