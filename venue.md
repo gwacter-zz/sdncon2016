@@ -2,6 +2,8 @@
 
 We will be holding the hackathon at Victoria University in the Alan Macdiarmid building in rooms AM102 and AM104. 
 
+<img src="https://github.com/gwacter/sdncon2016/blob/master/campus-map.png" width=50%></>
+
 These rooms are on the ground floor on the building opposite Wishbone Cafe.
 
 Victoria University has three campuses and we are at the Kelburn campus. 
