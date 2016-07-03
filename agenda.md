@@ -8,7 +8,7 @@ Thursday 7 July 2016
 | 11:00 am      | Break |
 | 12:30 pm      | Lunch      |   
 | 3:30 pm       | Break |
-| 6:00 pm       | Pizza on site and either come out for a drink or work on your own equipment |
+| 6:00 pm       | Pizza on site and either come out for a drink or retire to work on your own equipment |
 
 Friday 8 July 2016
 
