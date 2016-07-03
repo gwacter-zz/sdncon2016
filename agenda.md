@@ -18,6 +18,6 @@ Friday 8 July 2016
 | 11:00 am      | Break |
 | 12:30 pm      | Lunch  |    
 | 2:00 pm       | Show and Tell |
-| 5:00 pm       | Judging and Close |
-| 5:30 pm       | Pizza on site and go for a drink downtown |
+| 5:00 pm (ish) | Judging and Close |
+| 5:30 pm (ish)  | Pizza on site and go for a drink downtown |
 
