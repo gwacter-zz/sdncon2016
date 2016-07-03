@@ -6,7 +6,7 @@ These rooms are on the ground floor on the building opposite Wishbone Cafe.
 
 Victoria University has three campuses and we are at the Kelburn campus. 
 
-There is a [downloadable map)[http://www.victoria.ac.nz/about/explore-victoria/campuses/kelburn/kelburn-campus-map.pdf], we will
+There is a [downloadable map](http://www.victoria.ac.nz/about/explore-victoria/campuses/kelburn/kelburn-campus-map.pdf), we will
 be at reference h-13.
 
 For information on finding us see (http://www.victoria.ac.nz/about/explore-victoria/campuses/kelburn).
