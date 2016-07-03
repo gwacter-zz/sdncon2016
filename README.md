@@ -11,11 +11,11 @@ real hardware (in particular the Zodiac FX OpenFlow switch).
 We will be using the Ryu controller framework so you should have some basic knowledge of Python programming. 
 We will also be using the Faucet controller and will post resources to learning about this before the event.
 
-Learning materials for Faucet and the Zodiac FX board are available on our website (http://sdncon.net)
+The idea is to either demonstrate the use of Faucet with some use cases, build a SDN application on top of Faucet or extend Faucet functionality. We encourage the use of unit tests as this is a key feature of Faucet.
 
 We have will have mentors circulating on the day who can give advice and we expect that teams can help each other. There are some prizes but the focus for the day is friendly competition where we learn from each other.
 
-This repository will include all the material needed for the current instance of SDNCon.
+On the Friday afternoon we will have Show and Tells from the teams.
 
 ### Hackthon information
 
