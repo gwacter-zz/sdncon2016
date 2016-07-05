@@ -1,5 +1,7 @@
 # Agenda for the event
 
+Both days are in AM102/104.
+
 Thursday 7 July 2016
 
 |               |              |
