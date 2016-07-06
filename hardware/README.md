@@ -13,6 +13,7 @@ You will need [PuTTY for Windows](https://the.earth.li/~sgtatham/putty/latest/x8
 ## What is given to you.
 
 ![testbed architecture](https://github.com/gwacter/sdncon2016/blob/master/hardware/SDNcon2016_network_diagram.png)
+<img ="https://github.com/gwacter/sdncon2016/blob/master/hardware/SDNcon2016_network_diagram.png" width=50%></img>)
 
 A Raspberry Pi 2 Model B functions as the OpenFlow controller. The on­board Ethernet port (of the Raspberry Pi ­ labelled Ctrl) connects the controller to the controller switch port on a Zodiac FX OpenFlow switch (labelled ZFX). A USB to Ethernet adapter (labelled UEt) connects the controller to the data plane (more specifically switch port 3) on the Zodiac FX mentioned above.
 
