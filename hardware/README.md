@@ -1,6 +1,6 @@
 # Hardware on the day
 
-We have providing *EIGHT* pre-built development testbeds built around Raspberry PIs and Zodiac FX switches. 
+We have providing *SEVEN* pre-built development testbeds built around Raspberry PIs and Zodiac FX switches. 
 
 That should be enough for each team although it might mean some individuals need to find someone to work with on the day itself.
 
